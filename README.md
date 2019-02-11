@@ -1,6 +1,7 @@
 # Time-series-Analysis
 Time Series Visualization and Predictions Workflow
 There are 2 notebooks in this series.
+
 Visualizing_Time_Series_Data_1 shows methds for visualizing time series data, for decmposing into trend and seasonality components and for testing for non-stationarity. Finally some methods for transforming a non-stationary series are shown.
 
 Time Series Forecasting-Methods_2 
